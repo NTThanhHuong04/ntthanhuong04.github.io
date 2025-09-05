@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "1",
+      "status": "notlocked",
+      "note": ""
+    },
+    {
+      "username": "1",
+      "password": "1",
+      "status": "locked",
+      "note": "# MAY BI NGU A THANG EM"
+    }
+  ]
+}
